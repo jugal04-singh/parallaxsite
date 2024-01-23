@@ -1,0 +1,57 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    color: #666;}
+  
+    .sectionhead{
+        min-height: 100%;
+        background-image: url(img.1.png);
+        position:relative;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .sectiontext{
+    
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        text-align: center;
+        font-size: 35px;
+        text-transform: uppercase;
+        color: black;
+        letter-spacing: 2px;
+        
+       
+        
+    }
+    .headtext{
+        background-color: #f4f0f0;
+    }
+    .sectionone{
+        background-color: #201c1c;
+        color: rgb(247, 244, 244);
+        padding-top: 1%;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    .img2{
+       min-height: 400px;
+       background-image: url(img2.jpeg);
+    }
+    .img3{
+        min-height: 400px;
+        background-image: url(img3.jpeg);
+     }
+     .sectiotwo{
+        background-color: #f1e6e6;
+        color: black;
+        padding-top: 1%;
+        text-align: center;
+        text-transform: capitalize;
+    }
+        
+ 
